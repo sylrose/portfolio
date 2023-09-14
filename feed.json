@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Michaela&#x27;s portfolio",
+    "description": "",
+    "home_page_url": "https://micha.arceus.day",
+    "feed_url": "https://micha.arceus.day/feed.json",
+    "user_comment": "",
+    "icon": "https://micha.arceus.day/media/website/strawberry.png",
+    "author": {
+        "name": "michaela"
+    },
+    "items": [
+    ]
+}

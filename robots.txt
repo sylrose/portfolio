@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://micha.arceus.day/sitemap.xml
