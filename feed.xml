@@ -3,12 +3,43 @@
     <title>Michaela&#x27;s portfolio</title>
     <link href="https://micha.arceus.day/feed.xml" rel="self" />
     <link href="https://micha.arceus.day" />
-    <updated>2023-09-16T23:14:36-04:00</updated>
+    <updated>2023-09-16T23:39:40-04:00</updated>
     <author>
         <name>michaela</name>
     </author>
     <id>https://micha.arceus.day</id>
 
+    <entry>
+        <title>gliese art collective</title>
+        <author>
+            <name>michaela</name>
+        </author>
+        <link href="https://micha.arceus.day/gliese-art-collective.html"/>
+        <id>https://micha.arceus.day/gliese-art-collective.html</id>
+        <media:content url="https://micha.arceus.day/media/posts/6/asudjsd.png" medium="image" />
+
+        <updated>2023-09-16T23:39:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://micha.arceus.day/media/posts/6/asudjsd.png" alt="Hubble from Space" />
+                    Here's my current project: Gliese Art Collective. To inspire equity&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://micha.arceus.day/media/posts/6/asudjsd.png" class="type:primaryImage" alt="Hubble from Space" /></p>
+                <p>Here's my current project: <a href="https://gliese.arceus.day">Gliese Art Collective.</a></p>
+<div> </div>
+<div id="description-container" class="style-scope ytd-channel-about-metadata-renderer">To inspire equity through art. The Collective is about showcasing artists who have been "othered". We educate publicly, inspire discourse, and analyze history and the present and the way they connect. In order to do this, we will create accessible videos, modules, and community events. Check out our <a href="https://gliese.arceus.day/mission.html" target="_blank" rel="noopener">mission statement,</a> <a href="https://www.instagram.com/gliese.artcollective/">Instagram,</a> and <a href="https://glieseart.tumblr.com">Tumblr</a>. Meet our <a href="https://gliese.arceus.day/staff.html">staff!</a></div>
+<div> </div>
+<div>Here's our latest video!</div>
+<div>
+<figure class="post__video"><iframe loading="lazy" width="531" height="298" style="width: 531px; height: 298px;" src="https://www.youtube.com/embed/8im9U3Sd3PQ" allowfullscreen="allowfullscreen"></iframe></figure>
+</div>
+<div id="details-container" class="style-scope ytd-channel-about-metadata-renderer"></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Violin</title>
         <author>
@@ -20,7 +51,7 @@
         <updated>2023-09-16T22:53:47-04:00</updated>
             <summary>
                 <![CDATA[
-                    Michaela Frey has been playing violin since age 3 (2011). She was a winner in the American Fine Arts Festival (AFAF) Competition in 2015 (1st grade) and performed in the winners’ recital at Lincoln Center in New York City. She also performed with the Pro&hellip;
+                    Michaela Frey has been playing violin since age 3 (2011).
                 ]]>
             </summary>
         <content type="html">
@@ -55,7 +86,7 @@
         <updated>2023-09-16T23:14:36-04:00</updated>
             <summary>
                 <![CDATA[
-                    JULY 2023: "Velvet parabolas" JUNE 2023: "The green myriagon's 12th rotation" AUGUST 2023: "tetrapharmakos (don't fear)" FEBRUARY 2023: "THE XLUA'TAM, WORSHIPPERS OF THE YUXIA-MITJE", Excerpt from The Guide to Kibstolya DECEMBER 2022: "Reflections on the Iris" (contemporary Korean sijo) JANUARY 2023: "KYODORIJI: LAND OF THE MALVI RIVER", Excerpt from The Guide to Kibstolya&hellip;
+                    JULY 2023: "Velvet parabolas" JUNE 2023: "The green myriagon's 12th rotation"&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -123,7 +154,7 @@
         <updated>2023-09-16T22:35:55-04:00</updated>
             <summary>
                 <![CDATA[
-                    Displayed are some archives of my art. (Rare!) digitals are near the bottom.
+                    Displayed are some archives of my art. (Rare!) digitals are&hellip;
                 ]]>
             </summary>
         <content type="html">
