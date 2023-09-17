@@ -3,10 +3,63 @@
     <title>Michaela&#x27;s portfolio</title>
     <link href="https://micha.arceus.day/feed.xml" rel="self" />
     <link href="https://micha.arceus.day" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2023-09-13T20:26:09-04:00</updated>
     <author>
         <name>michaela</name>
     </author>
     <id>https://micha.arceus.day</id>
 
+    <entry>
+        <title>Violin</title>
+        <author>
+            <name>michaela</name>
+        </author>
+        <link href="https://micha.arceus.day/violin.html"/>
+        <id>https://micha.arceus.day/violin.html</id>
+
+        <updated>2023-09-13T20:26:09-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Writing</title>
+        <author>
+            <name>michaela</name>
+        </author>
+        <link href="https://micha.arceus.day/writing.html"/>
+        <id>https://micha.arceus.day/writing.html</id>
+
+        <updated>2023-09-13T20:26:06-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Art</title>
+        <author>
+            <name>michaela</name>
+        </author>
+        <link href="https://micha.arceus.day/art.html"/>
+        <id>https://micha.arceus.day/art.html</id>
+
+        <updated>2023-09-13T20:26:03-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>michaela</name>
+        </author>
+        <link href="https://micha.arceus.day/michaela-ye-hyang-frey-2.html"/>
+        <id>https://micha.arceus.day/michaela-ye-hyang-frey-2.html</id>
+
+        <updated>2023-09-13T20:25:10-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+<p>Hi! My name is Micha, and I'm 15. I spend much of my time researching abstruse affairs, worldbuilding, and reading. I am Korean-American, and I say I reside in DC, but actually live in Northern Virginia.<br id="ispmk" draggable="true" data-gjs-type="default"><br id="idehx" draggable="true" data-gjs-type="default">Subjects I appreciate are politics, East Asian history, protest art, art history, feminist thought, and philosophy. I like visiting used bookstores, libraries, and video game shops. I write surrealistic, bizarre prose often with horror elements exploring the linearity of progress. I also like fiction and fandom such as Stardew Valley, Homestuck, visual novels, and rhythm games.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
