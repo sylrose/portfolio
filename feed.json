@@ -84,15 +84,15 @@
             "id": "https://micha.arceus.day/michaela-ye-hyang-frey.html",
             "url": "https://micha.arceus.day/michaela-ye-hyang-frey.html",
             "title": "michaela ye-hyang frey",
-            "summary": "artist, violinist, prosaist, book and history enthusiast.",
-            "content_html": "\n  <p>\n    artist, violinist, prosaist, book and history enthusiast.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://micha.arceus.day/media/posts/1/gallery/78ab775f06e9a70665bb8c5c96342bb7.jpg\" data-size=\"473x574\">\n        <img loading=\"lazy\" src=\"https://micha.arceus.day/media/posts/1/gallery/78ab775f06e9a70665bb8c5c96342bb7-thumbnail.jpg\" height=\"574\" width=\"473\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://micha.arceus.day/media/posts/1/gallery/me1.jpg\" data-size=\"3025x4034\">\n        <img loading=\"lazy\" src=\"https://micha.arceus.day/media/posts/1/gallery/me1-thumbnail.jpg\" height=\"1024\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://micha.arceus.day/media/posts/1/gallery/tumblr_a34145db5d796cf869210dfd9017fcb5_37ba75f5_2048.jpeg\" data-size=\"1920x1080\">\n        <img loading=\"lazy\" src=\"https://micha.arceus.day/media/posts/1/gallery/tumblr_a34145db5d796cf869210dfd9017fcb5_37ba75f5_2048-thumbnail.jpeg\" height=\"432\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "summary": "artist, violinist, prosaist, book and history enthusiast. visit&nbsp;gliese art collective&nbsp;!",
+            "content_html": "\n  <p>\n    artist, violinist, prosaist, book and history enthusiast. visit&nbsp;<a href=\"https://micha.arceus.day/gliese-art-collective.html\">gliese art collective</a>&nbsp;!\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://micha.arceus.day/media/posts/1/gallery/78ab775f06e9a70665bb8c5c96342bb7.jpg\" data-size=\"473x574\">\n        <img loading=\"lazy\" src=\"https://micha.arceus.day/media/posts/1/gallery/78ab775f06e9a70665bb8c5c96342bb7-thumbnail.jpg\" height=\"574\" width=\"473\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://micha.arceus.day/media/posts/1/gallery/me1.jpg\" data-size=\"3025x4034\">\n        <img loading=\"lazy\" src=\"https://micha.arceus.day/media/posts/1/gallery/me1-thumbnail.jpg\" height=\"1024\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://micha.arceus.day/media/posts/1/gallery/tumblr_a34145db5d796cf869210dfd9017fcb5_37ba75f5_2048.jpeg\" data-size=\"1920x1080\">\n        <img loading=\"lazy\" src=\"https://micha.arceus.day/media/posts/1/gallery/tumblr_a34145db5d796cf869210dfd9017fcb5_37ba75f5_2048-thumbnail.jpeg\" height=\"432\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
             "author": {
                 "name": "michaela"
             },
             "tags": [
             ],
             "date_published": "2023-08-28T19:37:32-04:00",
-            "date_modified": "2023-10-25T14:44:08-04:00"
+            "date_modified": "2023-10-25T14:51:24-04:00"
         }
     ]
 }
