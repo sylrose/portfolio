@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Michaela&#x27;s portfolio",
+    "title": "jade illuminations",
     "description": "",
     "home_page_url": "https://micha.arceus.day",
     "feed_url": "https://micha.arceus.day/feed.json",
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2023-09-16T23:36:38-04:00",
-            "date_modified": "2023-09-16T23:39:40-04:00"
+            "date_modified": "2023-10-26T13:33:29-04:00"
         },
         {
             "id": "https://micha.arceus.day/violin.html",

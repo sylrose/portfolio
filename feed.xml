@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Michaela&#x27;s portfolio</title>
+    <title>jade illuminations</title>
     <link href="https://micha.arceus.day/feed.xml" rel="self" />
     <link href="https://micha.arceus.day" />
-    <updated>2023-10-25T14:51:24-04:00</updated>
+    <updated>2023-10-26T13:33:29-04:00</updated>
     <author>
         <name>michaela</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://micha.arceus.day/gliese-art-collective.html</id>
         <media:content url="https://micha.arceus.day/media/posts/6/asudjsd.png" medium="image" />
 
-        <updated>2023-09-16T23:39:40-04:00</updated>
+        <updated>2023-10-26T13:33:29-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://micha.arceus.day/media/posts/6/asudjsd.png" alt="Hubble from Space" />
